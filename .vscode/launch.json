@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ExceptionOnArray",
+            "request": "launch",
+            "mainClass": "Prak3.ExceptionOnArray",
+            "projectName": "Java Program_7a75d562"
+        },
+        {
+            "type": "java",
+            "name": "Asersi2",
+            "request": "launch",
+            "mainClass": "Prak3.Asersi2",
+            "projectName": "Java Program_7a75d562"
+        },
+        {
+            "type": "java",
+            "name": "Asersi1",
+            "request": "launch",
+            "mainClass": "Prak3.Asersi1",
+            "projectName": "Java Program_7a75d562"
+        },
+        {
+            "type": "java",
+            "name": "MGaris",
+            "request": "launch",
+            "mainClass": "MGaris",
+            "projectName": "Java Program_7a75d562"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Java Program_7a75d562"
+        },
+        {
+            "type": "java",
+            "name": "MTitik",
+            "request": "launch",
+            "mainClass": "MTitik",
+            "projectName": "Java Program_7a75d562"
+        }
+    ]
+}
