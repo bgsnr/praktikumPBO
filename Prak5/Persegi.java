@@ -1,4 +1,4 @@
-package Prak4;
+package Prak5;
 
 public class Persegi extends BangunDatar {
     private double Sisi;
@@ -24,5 +24,15 @@ public class Persegi extends BangunDatar {
     public void printInfo() {
         super.printInfo();
         System.out.println("Sisi: " + Sisi);
+    }
+
+    @Override
+    public double getLuas() {
+        return Sisi * Sisi;
+    }
+
+    @Override
+    public double getKeliling() {
+        return 4 * Sisi;
     }
 }

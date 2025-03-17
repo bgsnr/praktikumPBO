@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MPegawai",
+            "request": "launch",
+            "mainClass": "Prak4.Pegawai.MPegawai",
+            "projectName": "Java Program_7a75d562"
+        },
+        {
+            "type": "java",
             "name": "ExceptionOnArray",
             "request": "launch",
             "mainClass": "Prak3.ExceptionOnArray",

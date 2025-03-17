@@ -1,6 +1,6 @@
-package Prak4;
+package Prak5;
 
-public class BangunDatar {
+public abstract class BangunDatar {
     private int jmlSisi;
     private String warna;
     private String border;
@@ -35,6 +35,9 @@ public class BangunDatar {
     public void setBorder(String border) {
         this.border = border;
     }
+
+    public abstract double getLuas();
+    public abstract double getKeliling();
 
     public void printInfo() {
         System.out.println("Jumlah sisi: " + jmlSisi);
